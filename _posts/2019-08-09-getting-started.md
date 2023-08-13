@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Getting Started"
-author: cotes
 
 ---
 
